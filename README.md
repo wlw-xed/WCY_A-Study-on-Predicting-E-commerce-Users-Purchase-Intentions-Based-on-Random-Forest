@@ -1,8 +1,5 @@
 # 基于随机森林的电商用户购买意愿预测研究
 
-作者：王彩云  
-学号：202521511226
-
 ## 数据来源
 
 UCI Machine Learning Repository：Online Shoppers Purchasing Intention Dataset  
